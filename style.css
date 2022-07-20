@@ -372,7 +372,7 @@ a:focus {
   height: 55%;
   top: 0;
   left: 0;
-  background-image: url(../images/service-bg.jpg);
+  background-image: url(service-bg.jpg);
   z-index: -1;
 }
 
@@ -532,23 +532,6 @@ a:focus {
   margin: 35px 0 0 0;
 }
 
-/* footer section*/
-.footer_section {
-  background-color: #ffffff;
-  padding: 20px;
-  font-weight: 500;
-}
-
-.footer_section p {
-  color: #292929;
-  margin: 0;
-  text-align: center;
-}
-
-.footer_section a {
-  color: #292929;
-}
-
 .discord_image img{
   position: center;
   height: 350px;
@@ -574,6 +557,11 @@ a:focus {
 
 .list_1 li ul{
    font-family: "Roboto", sans-serif;
+}
+
+#special_image img{
+  width: 300px;
+  height: auto;
 }
 
 /* end footer section*/
